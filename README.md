@@ -9,14 +9,16 @@
 - 🎓 **B.Tech in Computer Science** - BIT Durg
 - 🏆 Secured 386th rank in the GATE Computer Science 2022 exam out of 78,000 candidates.
 
-## Academic Achievements
+## Core Competencies
 
-- Solid foundation in key theoretical subjects including Advanced Data Structures and Algorithms, and Operating Systems.
-- Expertise in programming through courses like Advanced Programming Laboratory, Object Oriented Programming, and GPU Programming using CUDA and SYCL.
-- Completed coursework in Computer Networks, Relational Database Management Systems, Computer Architecture, and Artificial Intelligence.
+- Solid foundation in essential theoretical subjects such as Advanced Data Structures and Algorithms, and Operating Systems.
+- Expertise in programming languages acquired through courses like Advanced Programming Laboratory, Object Oriented Programming, and GPU Programming using CUDA and SYCL.
+- Completed coursework covering Computer Networks, Relational Database Management Systems, Computer Architecture, and Artificial Intelligence.
+
+## Professional Expertise
+
 
 ## Technical Skills
-
 - 💻 **Programming Languages:** C, C++, Java, CUDA, SYCL
 - 🌐 **Web Development:** HTML, CSS, JavaScript, React
 - 🛠️ **Development Environments:** 
